@@ -10,7 +10,7 @@ permalink: /privacy/
 
 This Privacy Policy explains how Jack Silverman ("we", "us") collects, uses, and shares information when you use the **Car Care** mobile application (the "App"). By using the App you agree to this Policy.
 
-If you have questions about this Policy or how your data is handled, contact us at **[CONTACT EMAIL — please fill in]**.
+If you have questions about this Policy or how your data is handled, contact us at **jackdsilverman@gmail.com**.
 
 ---
 
@@ -116,7 +116,7 @@ Supabase data may be processed in regions outside your country, including the Un
 ## 6. Data retention
 
 - **Account and records:** retained while your account is active. You can delete individual vehicles, records, parts, and photos at any time from within the App.
-- **Account deletion:** you can request full deletion of your account and all associated data by emailing **[CONTACT EMAIL — please fill in]**. We will delete your data within 30 days of a verified request, except where we are legally required to retain it (e.g. financial records relating to a Pro purchase).
+- **Account deletion:** you can request full deletion of your account and all associated data by emailing **jackdsilverman@gmail.com**. We will delete your data within 30 days of a verified request, except where we are legally required to retain it (e.g. financial records relating to a Pro purchase).
 - **Purchase records:** retained as required by applicable tax and consumer-protection law (typically up to 7 years).
 - **Backups:** copies in routine backups may persist for up to 90 days after deletion before being purged.
 
@@ -157,7 +157,7 @@ You have the right to:
 - **Withdraw consent** at any time where processing is based on consent.
 - **Lodge a complaint** with your local data-protection authority. In the UK, this is the [ICO](https://ico.org.uk/).
 
-To exercise any of these rights, email **[CONTACT EMAIL — please fill in]**.
+To exercise any of these rights, email **jackdsilverman@gmail.com**.
 
 ### 8.3 California residents (CCPA / CPRA)
 
@@ -172,7 +172,7 @@ You have the right to:
 - **Opt out of sale or sharing** (not applicable here — we do neither).
 - **Non-discrimination** for exercising your rights.
 
-To exercise any of these rights, email **[CONTACT EMAIL — please fill in]**. We may need to verify your identity before fulfilling the request.
+To exercise any of these rights, email **jackdsilverman@gmail.com**. We may need to verify your identity before fulfilling the request.
 
 ---
 
@@ -193,7 +193,7 @@ We may update this Policy from time to time. When we do, we will revise the "Las
 For privacy questions, requests, or complaints:
 
 **Jack Silverman**
-Email: **[CONTACT EMAIL — please fill in]**
+Email: **jackdsilverman@gmail.com**
 
 ---
 
