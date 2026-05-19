@@ -122,7 +122,7 @@ We may update these Terms from time to time. We will revise the "Last updated" d
 
 ## 13. Governing law and disputes
 
-These Terms are governed by the laws of **[YOUR STATE — e.g. California], United States**, without regard to its conflict-of-law principles. Any dispute arising out of or relating to these Terms or the App will be brought exclusively in the state or federal courts located in **[YOUR COUNTY/CITY — e.g. San Francisco County, California]**, and you consent to the personal jurisdiction of those courts.
+These Terms are governed by the laws of the **State of Ohio, United States**, without regard to its conflict-of-law principles. Any dispute arising out of or relating to these Terms or the App will be brought exclusively in the state or federal courts located in Ohio, and you consent to the personal jurisdiction of those courts.
 
 Where you are a consumer resident in the EU, UK, or another jurisdiction that grants you a mandatory right to bring proceedings in your local courts under applicable consumer-protection law, this section does not override that right.
 
